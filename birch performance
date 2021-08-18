@@ -1,0 +1,68 @@
+TCP 
+
+10
+	new data 0.796
+	old data 0.148
+	firt port 0.715
+
+60 
+	new data 0.865
+	old data 0.135
+	firt port 0.65
+	
+180 
+	new data 0.88
+	old data 0.1448
+	firt port 0.17
+	
+600 ######################################## BEST
+	new data 0.84
+	old data 0.154
+	firt port 0.7068 
+	
+	
+	
+UDP
+
+10
+	new data 0.899
+	old data 0.26
+	firt port 0.504
+
+60 ######################################## BEST
+	new data 0.85
+	old data 0.32
+	firt port 0.625
+	
+180 
+	new data 0.828
+	old data 0.29
+	firt port 0.175
+	
+600
+	new data 0.839
+	old data 0.35
+	firt port 0.209
+	
+
+ICMP
+
+10
+	new data 0.856
+	old data 0.41
+	firt port /
+
+60 60 ######################################## BEST
+	new data 0.888
+	old data 0.46
+	firt port /
+	
+180 
+	new data 0.853
+	old data 0.47 ma molte sovrapposizioni 
+	firt port /
+	
+600
+	new data 0.889
+	old data 0.436 ma molte sovrapposizioni 
+	firt port /
